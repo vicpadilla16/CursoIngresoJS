@@ -6,4 +6,9 @@ function mostrar()
     dato = prompt("ingresá tu apellido");
     alert(dato);
 }
-
+/*
+{
+	var dato;
+	dato = prompt("decime tu nombre");
+	alert("hola " + dato);
+}
