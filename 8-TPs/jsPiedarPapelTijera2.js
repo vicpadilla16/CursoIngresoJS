@@ -18,6 +18,8 @@ function piedra()
 }//FIN DE LA FUNCIÓN
 function papel()
 {
+	switch() {
+		case 1
 
 }//FIN DE LA FUNCIÓN
 function tijera()
